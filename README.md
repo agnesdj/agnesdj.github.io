@@ -8,5 +8,5 @@ Visit my first portfolio HERE!
 
 ### Contact me!
 
-Contact me on my email!
+Contact me on my email! <br>
 Email Address : agnesdj11@gmail.com
