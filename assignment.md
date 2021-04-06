@@ -1,5 +1,5 @@
 ## Agnes' Page
-### This is the page for my first portfolio
+### This is the page for my first portfolio!
 
 ### NBA Influencers
 In order to become twitter famous, what should be done? 
