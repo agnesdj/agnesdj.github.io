@@ -5,7 +5,7 @@
 In order to become twitter famous, what should be done? 
 This analysis is aimed to find out the factors that can make athletes to be twitter famous. There are three aspects focused, which are the salary, height, and the number of wins of each athlete. 
 
-Data source: Social Power NBA | Kaggle [Source Link](https://www.kaggle.com/noahgift/social-power-nba)
+Data source: [Social Power NBA | Kaggle](https://www.kaggle.com/noahgift/social-power-nba)
 
 ![tabell](https://user-images.githubusercontent.com/81511192/113677238-910b9800-96e7-11eb-85b9-bd01ec910c7a.png)
 
