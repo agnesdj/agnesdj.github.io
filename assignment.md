@@ -3,6 +3,11 @@
 
 ### NBA Influencers
 In order to become twitter famous, what should be done? 
+
+
+![lebron_james_lakers_jordan_all-time_scoring_jpg](https://user-images.githubusercontent.com/81511192/113678955-6de1e800-96e9-11eb-9ede-869d5d374393.jpg)
+
+
 This analysis is aimed to find out the factors that can make athletes to be twitter famous. There are three aspects focused, which are the salary, height, and the number of wins of each athlete. 
 
 Data source: [Social Power NBA | Kaggle](https://www.kaggle.com/noahgift/social-power-nba)
